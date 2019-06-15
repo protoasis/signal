@@ -1,0 +1,9 @@
+Signal is a non-graphical client, in three parts.
+  - Signal Red is a UT3-compatible query pinger. 
+  - Signal Yellow includes text chat.
+  - Signal Green includes voice chat. If we impliment voice. 
+
+Signal is the first client to be written for ProtOasis.
+It will help to test development of Depot, itself a development server for testing Signal, and later Station, the main game server.
+
+Signal will be available for iOS, Android, Linux, macOS, WebRTC and Win10 app. 
